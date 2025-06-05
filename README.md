@@ -1,4 +1,4 @@
-# Airbnb Dallas Power BI Dashboard
+# 🇺🇸 Airbnb Dallas Power BI Dashboard
 
 This project uses Power BI to analyze Airbnb listings in Dallas, TX, using the Detailed Listings dataset from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). It explores insights around neighborhood trends, guest satisfaction, and host activity to help stakeholders make informed decisions.
 
