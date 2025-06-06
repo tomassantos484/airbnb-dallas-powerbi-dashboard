@@ -56,14 +56,15 @@ Focus: Host behavior, pricing, and listing features
 
 ---
 
-## 📂 Deliverables
+## 📂 Files
 - `TSY_PowerBI_Project.pbix`: Power BI file with all visuals
 - `TSY_PowerBIProject_BusinessQuestions.pdf`: 10 pressing business questions, answered!
 - `TSY_PowerBIProject_PowerPoint.pdf`: PowerPoint of dashboards and visuals
+- `price_boxplot_script.R`: R script using `ggplot2` for a custom box plot on Dashboard 3
 
 ---
 
 ## 🛠️ How Did I Make This?
-- Power BI (Data Visualization)
+- Power BI (Data visualization)
 - Power Query (Data cleaning/transformation)
-
+- R (Advanced data visualization, custom box plot to illustrate price distributions by room type with greater visual control.
